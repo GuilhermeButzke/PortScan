@@ -9,7 +9,7 @@ Make sure you have Python installed on your system. You can download it at pytho
   
 ### Clone the Repository:
 
-`git clone https://github.com/seu-usuario/PortScan.git`  
+`git clone https://github.com/GuilhermeButzke/PortScan.git`  
   
 `cd PortScan`  
   
